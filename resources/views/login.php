@@ -56,5 +56,7 @@
 
         <button>Log In</button>
     </form>
+
+    <a href="forgot-password.php">Forgot Password</a>
 </body>
 </html>
